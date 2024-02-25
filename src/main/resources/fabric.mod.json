@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "first-test-mod",
+	"version": "${version}",
+	"name": "First Test Mod",
+	"description": "The first Test Mod",
+	"authors": [
+		"Darius0o2"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/first-test-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.darius0o2.firsttestmod.FirstTestMod"
+		],
+		"client": [
+			"com.darius0o2.firsttestmod.FirstTestModClient"
+		],
+		"fabric-datagen": [
+			"com.darius0o2.firsttestmod.FirstTestModDataGenerator"
+		]
+	},
+	"mixins": [
+		"first-test-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "item.first-test-mod.ruby": "Ruby",
+  "item.first-test-mod.raw_ruby": "Raw Ruby",
+
+  "block.first-test-mod.ruby_block": "Block of Ruby",
+  "block.first-test-mod.raw_ruby_block": "Block of Raw Ruby",
+
+  "block.first-test-mod.ruby_ore": "Ruby Ore",
+  "block.first-test-mod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.first-test-mod.nether_ruby_ore": "Nether Ruby Ore",
+  "block.first-test-mod.end_stone_ruby_ore": "End Stone Ruby Ore",
+
+  "item.first-test-mod.metal_detector": "Metal Detector",
+  "item.first-test-mod.tomato": "Tomato",
+  "item.first-test-mod.coal_briquette": "Coal Briquette",
+
+  "item.first-test-mod.sound_block": "Sound Block",
+
+  "tooltip.first-test-mod.metal_detector.tooltip": "A tool that searches for valuable Items.",
+
+  "itemgroup.ruby": "Ruby Tutorial Group"
+}
