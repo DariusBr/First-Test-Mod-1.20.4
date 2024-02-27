@@ -16,6 +16,16 @@
 
   "item.first-test-mod.sound_block": "Sound Block",
 
+  "block.first-test-mod.ruby_stairs": "Ruby Stairs",
+  "block.first-test-mod.ruby_slab": "Ruby Slab",
+  "block.first-test-mod.ruby_button": "Ruby Button",
+  "block.first-test-mod.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.first-test-mod.ruby_fence": "Ruby Fence",
+  "block.first-test-mod.ruby_fence_gate": "Ruby Fence Gate",
+  "block.first-test-mod.ruby_wall": "Ruby Wall",
+  "block.first-test-mod.ruby_door": "Ruby Door",
+  "block.first-test-mod.ruby_trapdoor": "Ruby Trapdoor",
+
   "tooltip.first-test-mod.metal_detector.tooltip": "A tool that searches for valuable Items.",
 
   "itemgroup.ruby": "Ruby Tutorial Group"
