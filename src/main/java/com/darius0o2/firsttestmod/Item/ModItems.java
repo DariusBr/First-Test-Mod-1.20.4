@@ -19,7 +19,7 @@ public class ModItems {
     public static final Item METAL_DETECTOR = registerItem("metal_detector",
             new MetalDetectorItem(new FabricItemSettings().maxDamage(64)));
 
-    public static final Item RUBY_WAND = registerItem("ruby_wand",
+    public static final Item RUBY_Staff = registerItem("ruby_staff",
             new Item(new FabricItemSettings().maxCount(1)));
 
     private static void addItemsToIngredientTabItemGroup(FabricItemGroupEntries entries){
