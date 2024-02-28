@@ -50,7 +50,10 @@ public class ModItemGroups {
 
                         entries.add(ModItems.METAL_DETECTOR);
                         entries.add(ModItems.RUBY_STAFF);
+                        entries.add(ModItems.TOMATO_SEEDS);
                         entries.add(ModItems.TOMATO);
+                        entries.add(ModItems.CORN_SEEDS);
+                        entries.add(ModItems.CORN);
                         entries.add(ModItems.COAL_BRIQUETTE);
 
                         entries.add(ModBlocks.SOUND_BLOCK);
