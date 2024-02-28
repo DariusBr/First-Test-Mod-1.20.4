@@ -9,6 +9,10 @@ import net.fabricmc.fabric.api.registry.FuelRegistry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+//Commands:
+//Run: ./gradlew runClient
+//Generate Data:./gradlew runDatagen
+
 public class FirstTestMod implements ModInitializer
 {
 	public static final String MOD_ID = "first-test-mod";

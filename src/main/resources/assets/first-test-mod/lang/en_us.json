@@ -27,6 +27,17 @@
   "block.first-test-mod.ruby_door": "Ruby Door",
   "block.first-test-mod.ruby_trapdoor": "Ruby Trapdoor",
 
+  "item.first-test-mod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.first-test-mod.ruby_axe": "Ruby Axe",
+  "item.first-test-mod.ruby_shovel": "Ruby Shovel",
+  "item.first-test-mod.ruby_sword": "Ruby Sword",
+  "item.first-test-mod.ruby_hoe": "Ruby Hoe",
+
+  "item.first-test-mod.ruby_helmet": "Ruby Helmet",
+  "item.first-test-mod.ruby_chestplate": "Ruby Chestplate",
+  "item.first-test-mod.ruby_leggings": "Ruby Leggings",
+  "item.first-test-mod.ruby_boots": "Ruby Boots",
+
   "tooltip.first-test-mod.metal_detector.tooltip": "A tool that searches for valuable Items.",
 
   "itemgroup.ruby": "Ruby Tutorial Group"
