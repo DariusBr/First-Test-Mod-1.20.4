@@ -3,6 +3,7 @@ package com.darius0o2.firsttestmod;
 import com.darius0o2.firsttestmod.Item.ModItemGroups;
 import com.darius0o2.firsttestmod.Item.ModItems;
 import com.darius0o2.firsttestmod.block.ModBlocks;
+import com.darius0o2.firsttestmod.util.ModLootTableModifiers;
 import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.registry.FuelRegistry;
@@ -24,6 +25,8 @@ public class FirstTestMod implements ModInitializer
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		ModLootTableModifiers.modifyLootTables();
 
 		FuelRegistry.INSTANCE.add(ModItems.COAL_BRIQUETTE, 200);
 	}
