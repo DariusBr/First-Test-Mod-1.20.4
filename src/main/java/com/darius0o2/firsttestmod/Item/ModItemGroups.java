@@ -27,13 +27,6 @@ public class ModItemGroups {
                         entries.add(ModItems.RUBY);
                         entries.add(ModBlocks.RUBY_BLOCK);
 
-                        entries.add(ModItems.METAL_DETECTOR);
-                        entries.add(ModItems.RUBY_Staff);
-                        entries.add(ModItems.TOMATO);
-                        entries.add(ModItems.COAL_BRIQUETTE);
-
-                        entries.add(ModBlocks.SOUND_BLOCK);
-
                         entries.add(ModBlocks.RUBY_DOOR);
                         entries.add(ModBlocks.RUBY_TRAPDOOR);
                         entries.add(ModBlocks.RUBY_PRESSURE_PLATE);
@@ -43,6 +36,13 @@ public class ModItemGroups {
                         entries.add(ModBlocks.RUBY_WALL);
                         entries.add(ModBlocks.RUBY_STAIRS);
                         entries.add(ModBlocks.RUBY_SLAB);
+
+                        entries.add(ModItems.METAL_DETECTOR);
+                        entries.add(ModItems.RUBY_Staff);
+                        entries.add(ModItems.TOMATO);
+                        entries.add(ModItems.COAL_BRIQUETTE);
+
+                        entries.add(ModBlocks.SOUND_BLOCK);
                     }).build());
 
     public static void registerItemGroups(){
