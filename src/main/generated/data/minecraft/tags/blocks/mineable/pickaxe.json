@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "first-test-mod:ruby_block",
+    "first-test-mod:raw_ruby_block",
+    "first-test-mod:ruby_ore",
+    "first-test-mod:deepslate_ruby_ore",
+    "first-test-mod:nether_ruby_ore",
+    "first-test-mod:end_stone_ruby_ore"
+  ]
+}

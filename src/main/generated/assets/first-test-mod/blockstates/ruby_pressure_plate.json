@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "first-test-mod:block/ruby_pressure_plate"
+    },
+    "powered=true": {
+      "model": "first-test-mod:block/ruby_pressure_plate_down"
+    }
+  }
+}
