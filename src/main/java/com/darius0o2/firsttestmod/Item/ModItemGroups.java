@@ -54,6 +54,7 @@ public class ModItemGroups {
                         entries.add(ModItems.TOMATO);
                         entries.add(ModItems.CORN_SEEDS);
                         entries.add(ModItems.CORN);
+                        entries.add(ModBlocks.DAHLIA);
                         entries.add(ModItems.COAL_BRIQUETTE);
 
                         entries.add(ModBlocks.SOUND_BLOCK);

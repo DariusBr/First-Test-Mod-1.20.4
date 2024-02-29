@@ -1,0 +1,21 @@
+// 1.20.4	2024-02-29T13:00:25.7258778	First Test Mod/Block Loot Tables
+152d92c56fdca43b492f33c8267fab6efbe36756 data\first-test-mod\loot_tables\blocks\ruby_door.json
+937ca3e0c92d4384da119313e47324c51ecf5517 data\first-test-mod\loot_tables\blocks\potted_dahlia.json
+c712983062de54fbb58ef05727a3799e90f1c07e data\first-test-mod\loot_tables\blocks\corn_crop.json
+919d5fa27917956440a2e9f4a2db8a4f3ce7333c data\first-test-mod\loot_tables\blocks\tomato_crop.json
+b46d97d965926649f3c8d8f178418e48bd3eda4b data\first-test-mod\loot_tables\blocks\ruby_pressure_plate.json
+73a936c05031532c5e694fb45439ed2b2534c678 data\first-test-mod\loot_tables\blocks\ruby_button.json
+0ee4bab724f2b5fc152aa1701a33de085be35047 data\first-test-mod\loot_tables\blocks\ruby_fence_gate.json
+2529c4273e2e72f84b45afb901a13d78d40a09a6 data\first-test-mod\loot_tables\blocks\dahlia.json
+dfd90398243d21638fa6fdecb2862e90aadf3686 data\first-test-mod\loot_tables\blocks\end_stone_ruby_ore.json
+c97e22d69aef31fd8e0023bc0430bb6d9f2d7839 data\first-test-mod\loot_tables\blocks\ruby_slab.json
+69304df8e20dbdd2066184eafb04136fa2b51c6b data\first-test-mod\loot_tables\blocks\sound_block.json
+073d00d569f4e04979ff81a8d9632e171c84c314 data\first-test-mod\loot_tables\blocks\raw_ruby_block.json
+7d229cefeb5076a03d5419798d342b1564d4fb79 data\first-test-mod\loot_tables\blocks\ruby_fence.json
+8622f3c4e957d0c60203a435007d1fc6f67ce37f data\first-test-mod\loot_tables\blocks\deepslate_ruby_ore.json
+b5b1cfd243e327990f0d90e31fda7ce40ce2edc5 data\first-test-mod\loot_tables\blocks\ruby_block.json
+4db53d0cb781d9158346b288d19b5d7d5ada6084 data\first-test-mod\loot_tables\blocks\ruby_wall.json
+db5f97d84b04bc925fb812ac2c41a0fe7e6aa1b9 data\first-test-mod\loot_tables\blocks\ruby_ore.json
+3d17bd1a4cae9d88a09cabacdf5d1aca2de5321b data\first-test-mod\loot_tables\blocks\ruby_stairs.json
+a18d6c41c61639d56a45e976bb5a370722af6af6 data\first-test-mod\loot_tables\blocks\ruby_trapdoor.json
+c5c96f0a85517b59aa4a6e77696afd3fdab58a57 data\first-test-mod\loot_tables\blocks\nether_ruby_ore.json
